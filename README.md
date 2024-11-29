@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TausendMedien aka @ulrich1000 on Twitter
+- 👋 Hi, I’m @TausendMedien aka @1000lights.de on Bluesky
 - 👀 I’m interested in Light Painting, Games, Media Education
 - 🌱 I’m currently learning about Light Painting.
 - 💞️ I’m looking to collaborate on guess what, light painting software.

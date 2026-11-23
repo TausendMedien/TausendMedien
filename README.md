@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @TausendMedien aka @1000lights.de on Bluesky
-- 👀 I’m interested in Light Painting, Games, Media Education
-- 🌱 I’m currently learning about AI Games and Light Painting.
-- 💞️ I’m looking to collaborate on guess what, AI and light painting software.
-- 📫 How to reach me www.tausend-medien.de and www.1000lights.de
+👋 Hi, I'm Ulrich Tausend
 
-<!---
-TausendMedien/TausendMedien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Media educator & light artist from Munich, working as Tausend Medien. For 25+ years I've been designing games and media projects together with developers – now increasingly with AI.
+
+🎮 What I'm building
+
+- ChatGameLab – an open-source, AI-supported game editor for youth work, built with @flocko-motion. Kids create their own AI games and learn how AI ticks.
+- A Light To Remember App – a browser-based generative projection app for live visuals and light painting (early preview)
+
+👀 Interested in light painting · games · media education · AI in creative and educational work
+
+💞️ Open to collaborate on AI-based games for education and software for light painting and live visuals
+
+📫 Find me ulrichtausend.com · tausend-medien.de · 1000lights.de · @1000lights.de on Bluesky
